@@ -4,9 +4,6 @@ const chalk = require('chalk')
 //contact details
 global.ownernumber = ['+43 660 1057068']
 global.ownername = "LIOR"//owner name
-global.ytname = 
-global.socialm = 
-global.location = 
 
 global.botname = 4evermidN8 BOT //name of the bot
 
@@ -15,8 +12,7 @@ global.stickername = '💙𓆩‎✘LIOR✘𓆪_✰'
 global.packname = 'Sticker By'
 global.author = 'LIOR'
 //console view/theme
-global.themeemoji = '🧩'
-global.wm = 
+global.themeemoji = '🤍'
 
 //theme link
 global.link = 'https://https://chat.whatsapp.com/GBcmGTSbWn3HFTGlkkMoRL
